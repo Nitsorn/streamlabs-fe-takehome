@@ -55,4 +55,4 @@ While the hard requirements of this assignment is somewhat basic, we are looking
 
 ## Submission
 
-Please push your code to your github as a public repo and email [andy@streamlabs](mailto:andy@streamlabs.com) and [oat@streamlabs](mailto:oat@streamlabs.com) with link to your repo.
+Please push your code to your github as a public repo and email [andy@streamlabs](mailto:andy@streamlabs.com) and [oat@streamlabs](mailto:oat@streamlabs.com) with link to your repo. Once we have received and reviewed your assignment, we will get back to you.
