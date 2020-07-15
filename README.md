@@ -16,7 +16,7 @@ Your mission, should you choose to accept it, is to familiarize yourself with br
 
 - You should be able to **drag each image** around the canvas with your mouse cursor. An image cannot be dragged into a position where it is partially outside the canvas.
 
-- BONUS: When image is in a dragged state, add a green border of 2 pixels width around that dragged image.
+- `BONUS`: When image is in a dragged state, add a green border of 2 pixels width around that dragged image.
 
 - Please do not use existing third party libraries such as Fabric.js.
 
@@ -38,15 +38,19 @@ While the hard requirements of this assignment is somewhat basic, we are looking
 - Please take the time to briefly answer the following questions at the end of your submission
 
 ```
-How long did it take you to complete this assignment?
+- How long did it take you to complete this assignment?
 
-What about this assignment did you find most challenging?
 
-What about this assignment did you find unclear?
+- What about this assignment did you find most challenging?
 
-What challenges did you face that you did not expect?
 
-Do you feel like this assignment has an appropriate level of difficulty?
+- What about this assignment did you find unclear?
+
+
+- What challenges did you face that you did not expect?
+
+
+- Do you feel like this assignment has an appropriate level of difficulty?
 ```
 
 ## Submission
