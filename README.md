@@ -53,6 +53,10 @@ While the hard requirements of this assignment is somewhat basic, we are looking
 - Do you feel like this assignment has an appropriate level of difficulty?
 ```
 
+## Questions
+
+Please email us if you have any questions along the way. We will try our best to help guide you through any confusions. Feel free to make assumptions and document them as you go as well.
+
 ## Submission
 
 Please push your code to your github as a public repo and email [andy@streamlabs](mailto:andy@streamlabs.com) and [oat@streamlabs](mailto:oat@streamlabs.com) with link to your repo. Once we have received and reviewed your assignment, we will get back to you.
