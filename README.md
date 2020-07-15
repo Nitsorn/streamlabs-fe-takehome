@@ -1,6 +1,6 @@
 ## Streamlabs Frontend Take Home Assignment
 
-Hi there! We are happy you are interested in joining the team here at Streamlabs. We as a company are on a mission of helping content creators around the world grow with our tools.
+Hi there! We are happy you are interested in joining the team here at Streamlabs. We as a company are on a mission of helping content creators around the world grow with our tools, and we are excited to have you on board.
 
 We work fast, fail fast and iterate fast and keep up with the fast pace of this industry, and we are looking for a talented frontend developer to join this process with us. You will work on range of different products visible to hundreds of thousands of daily users, solve interesting non-conventional technical challenges, and grow to become full product owner along the way.
 
